@@ -5,7 +5,7 @@ A simple xpath tool using [golang xpath library](https://github.com/antchfx/xpat
 # Install
 
 ``` shell
-go get -u https://github.com/angela0/xpd
+go get -u github.com/angela0/xpd
 ```
 
 # Usage
